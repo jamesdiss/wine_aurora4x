@@ -11,10 +11,7 @@ Wine and Winetricks are required along with xquartz.  I like homebrew;
 
 ```
 brew install wine winetricks
-brew cast install xquartz
 ```
-
-xquartx should trigger the installer.
 
 Clone this repo.  Alter anything you need to in the script and make it
 executable before attempting to run it;
